@@ -1,0 +1,5 @@
+org/example/schoolplus/SchoolPlusApplication.class
+org/example/schoolplus/model/UserPaymentInfo.class
+org/example/schoolplus/model/SubscriptionType.class
+org/example/schoolplus/model/UserType.class
+org/example/schoolplus/model/User.class
