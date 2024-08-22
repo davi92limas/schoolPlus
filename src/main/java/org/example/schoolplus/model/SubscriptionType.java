@@ -25,5 +25,4 @@ public class SubscriptionType {
     private BigDecimal price;
     @Column(name = "product_key")
     private String productKey;
-
 }

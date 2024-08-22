@@ -37,7 +37,4 @@ public class User {
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "subscriptions_type_id")
     private  SubscriptionType subscriptionType;
-
-
-
 }
