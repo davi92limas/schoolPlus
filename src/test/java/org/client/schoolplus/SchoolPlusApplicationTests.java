@@ -1,4 +1,4 @@
-package org.example.schoolplus;
+package org.client.schoolplus;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

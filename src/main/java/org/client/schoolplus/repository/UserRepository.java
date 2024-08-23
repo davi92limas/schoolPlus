@@ -1,6 +1,6 @@
-package org.example.schoolplus.repository;
+package org.client.schoolplus.repository;
 
-import org.example.schoolplus.model.User;
+import org.client.schoolplus.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

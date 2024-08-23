@@ -1,4 +1,4 @@
-package org.example.schoolplus.model;
+package org.client.schoolplus.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

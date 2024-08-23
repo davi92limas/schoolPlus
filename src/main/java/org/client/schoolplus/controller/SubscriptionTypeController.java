@@ -1,7 +1,7 @@
-package org.example.schoolplus.controller;
+package org.client.schoolplus.controller;
 
-import org.example.schoolplus.model.SubscriptionType;
-import org.example.schoolplus.repository.SubscriptionTypeRepository;
+import org.client.schoolplus.model.SubscriptionType;
+import org.client.schoolplus.repository.SubscriptionTypeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
